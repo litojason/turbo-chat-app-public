@@ -1,4 +1,4 @@
-# Turbo Chat App (turbo-chat-app)
+# Turbo Chat App Public (turbo-chat-app-public)
 
 Chat app built with [Typescript](https://www.typescriptlang.org/), [Turborepo](https://turborepo.com/), [Node JS](https://nodejs.org/en), [Express](https://expressjs.com/), [MySQL](https://www.mysql.com/), [Prisma](https://www.prisma.io/), [Socket.IO](https://socket.io/), [Next Js](https://nextjs.org/), [Shadcn](https://ui.shadcn.com/).
 
